@@ -1,4 +1,4 @@
-rt-graph
+Resource Type Graph
 ========
 
-This is a small web script that provides an ugly visualization of APS types available for POA installation
+This project is a POC, **do NOT submit issues**, it is unlikely I will ever contribute anything to it anymore.
